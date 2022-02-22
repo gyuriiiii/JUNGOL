@@ -1,0 +1,177 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch b_1002",
+            "request": "launch",
+            "mainClass": "b_1002",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1658",
+            "request": "launch",
+            "mainClass": "b_1658",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_2071",
+            "request": "launch",
+            "mainClass": "b_2071",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1337",
+            "request": "launch",
+            "mainClass": "b_1337",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1641",
+            "request": "launch",
+            "mainClass": "b_1641",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1329",
+            "request": "launch",
+            "mainClass": "b_1329",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1719",
+            "request": "launch",
+            "mainClass": "b_1719",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1523",
+            "request": "launch",
+            "mainClass": "b_1523",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_2809",
+            "request": "launch",
+            "mainClass": "b_2809",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1402",
+            "request": "launch",
+            "mainClass": "b_1402",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1430",
+            "request": "launch",
+            "mainClass": "b_1430",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1339",
+            "request": "launch",
+            "mainClass": "b_1339",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1071",
+            "request": "launch",
+            "mainClass": "b_1071",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1692",
+            "request": "launch",
+            "mainClass": "b_1692",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1338",
+            "request": "launch",
+            "mainClass": "b_1338",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1314",
+            "request": "launch",
+            "mainClass": "b_1314",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1307",
+            "request": "launch",
+            "mainClass": "b_1307",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_2046",
+            "request": "launch",
+            "mainClass": "b_2046",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1304",
+            "request": "launch",
+            "mainClass": "b_1304",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1856",
+            "request": "launch",
+            "mainClass": "b_1856",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1341",
+            "request": "launch",
+            "mainClass": "b_1341",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch b_1303",
+            "request": "launch",
+            "mainClass": "b_1303",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vscode_71559de3"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "vscode_71559de3",
+            "console": "integratedTerminal"
+        }
+    ]
+}
