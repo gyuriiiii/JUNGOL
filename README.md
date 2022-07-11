@@ -1,2 +1,0 @@
-# JUNGOL
-Algorithm / JUNGOL
